@@ -1,0 +1,4 @@
+com\springreact\demo\DemoApplication.class
+com\springreact\demo\controller\ClientController.class
+com\springreact\demo\repository\ClientRepository.class
+com\springreact\demo\model\Client.class
